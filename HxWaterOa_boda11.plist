@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://27.17.43.146:7001/boda/uploads/mobile/HxOa/HxWater.ipa</string>
+					<string>http://27.17.43.146:7001/boda/uploads/mobile/HxOa/HxWaterOa.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ionicframework.hxwaterboda</string>
+				<string>com.ionicframework.hxwaterbodaOa</string>
 				<key>bundle-version</key>
 				<string>0.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>水务通</string>
+				<string>办公助手</string>
 			</dict>
 		</dict>
 	</array>
