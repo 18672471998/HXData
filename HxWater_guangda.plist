@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://202.170.131.233:7081/guangda/uploads/mobile/1/HxWater.ipa</string>
+					<string>http://202.170.131.233:7080/guangda/uploads/mobile/1/HxWater.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://202.170.131.233:7081/guangda/uploads/mobile/1/icon.jpg</string>
+					<string>http://202.170.131.233:7080/guangda/uploads/mobile/1/icon.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://202.170.131.233:7081/guangda/uploads/mobile/1/logo57.png</string>
+					<string>http://202.170.131.233:7080/guangda/uploads/mobile/1/logo57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
