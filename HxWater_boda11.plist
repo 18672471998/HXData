@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://27.17.43.146:7001/bodaWater/uploads/user/HxWater.ipa</string>
+					<string>http://192.168.0.11:7001/bodaWater/uploads/user/HxWater.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://27.17.43.146:7001/bodaWater/uploads/user/icon.jpg</string>
+					<string>http://192.168.0.11:7001/bodaWater/uploads/user/icon.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://27.17.43.146:7001/bodaWater/uploads/user/logo57.png</string>
+					<string>http://192.168.0.11:7001/bodaWater/uploads/user/logo57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.ionicframework.hxwaterboda</string>
 				<key>bundle-version</key>
-				<string>1.0.4</string>
+				<string>1.0.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
