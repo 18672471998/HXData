@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://106.120.153.26:7080/cecic/uploads/mobile/1/HxWater.ipa</string>
+					<string>http://1.203.126.22:7080/cecic/uploads/mobile/1/HxWater.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://106.120.153.26:7080/cecic/uploads/mobile/1/icon.jpg</string>
+					<string>http://1.203.126.22:7080/cecic/uploads/mobile/1/icon.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://106.120.153.26:7080/cecic/uploads/mobile/1/logo57.png</string>
+					<string>http://1.203.126.22:7080/cecic/uploads/mobile/1/logo57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
